@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T20:03:28.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.52" etag="xSAbEUf62bYVGIIGKQE6" version="20.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-18T17:03:18.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.52" etag="c5tFEpZwySYV5ny9g5tP" version="20.8.5" type="github" pages="2">
   <diagram id="bL-ESCY9HWn5Dg1ivIIM" name="Amend flow">
     <mxGraphModel dx="1687" dy="945" grid="0" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="1">
       <root>
@@ -86,8 +86,8 @@
         <mxCell id="Yx0I1FmEcKnsPxwmG5qT-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1" source="Yx0I1FmEcKnsPxwmG5qT-3" target="Yx0I1FmEcKnsPxwmG5qT-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yx0I1FmEcKnsPxwmG5qT-3" value="&lt;b&gt;whReport.route.js&lt;/b&gt; gets the dividendEventCode" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="155" y="212.5" width="120" height="60" as="geometry" />
+        <mxCell id="Yx0I1FmEcKnsPxwmG5qT-3" value="&lt;b&gt;whReport.route.js&lt;/b&gt; gets the dividendEventCode and takes new values from the UI" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="156" y="198.75" width="120" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="RyXGfdwWH5R0bGJyHwGE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yx0I1FmEcKnsPxwmG5qT-5" target="RyXGfdwWH5R0bGJyHwGE-1">
           <mxGeometry relative="1" as="geometry" />
